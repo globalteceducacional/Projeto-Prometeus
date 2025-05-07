@@ -6,7 +6,10 @@ import cohere
 import fitz  # Importação correta do PyMuPDF
 from docx import Document
 
-from config import GOOGLE_API_KEY, COHERE_API_KEY
+import streamlit as st
+
+GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
+COHERE_API_KEY = st.secrets["COHERE_API_KEY"]
 
 UPLOAD_FOLDER = 'uploads'
 PROCESSED_FOLDER = 'processed'
