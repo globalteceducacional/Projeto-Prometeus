@@ -86,14 +86,12 @@ Contribuições são bem-vindas! Abra issues ou pull requests com melhorias, nov
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-
 ✔️ **Instruções finais:**
 
 - Altere o link do `git clone` para o **URL real do seu repositório** no GitHub.
 
 - Confirme que as pastas `uploads/` e `processed/` estão listadas no `.gitignore` se quiser evitar uploads locais no repositório.
 
-- Me avise se desejar gerar também o **workflow de CI/CD GitHub Actions** para deploy automático ou testes do Prometeus.
 
 
 
