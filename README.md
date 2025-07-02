@@ -84,7 +84,7 @@ Contribuições são bem-vindas! Abra issues ou pull requests com melhorias, nov
 
 ## 🙌 Colabodores
 
-Este projeto foi desenvolvido por Luã Saunders - @saunderz](https://github.com/saunderz) para [Globaltec Educacional](https://github.com/globalteceducacional).
+Este projeto foi desenvolvido por Luã Saunders - @saunderz](https://github.com/saunderz) - para [Globaltec Educacional](https://github.com/globalteceducacional).
 
 ## 📄 Licença
 
