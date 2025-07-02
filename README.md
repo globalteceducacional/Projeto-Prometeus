@@ -62,10 +62,10 @@ GOOGLE_API_KEY para OCR
 
 COHERE_API_KEY para correção textual
 
-Execute o aplicativo Streamlit:
-
+5. Execute o aplicativo Streamlit:
+```bash
 streamlit run app_streamlit.py
-
+```
 ✨ Funcionalidades Principais
 
 ✅ Upload de arquivos em múltiplos formatos (.png, .jpg, .jpeg, .pdf, .txt, .docx)
