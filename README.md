@@ -83,18 +83,14 @@ streamlit run app_streamlit.py
 Contribuições são bem-vindas! Abra issues ou pull requests com melhorias, novos recursos ou correções.
 
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 ## 👤 Autores
 
 Este projeto foi desenvolvido por Luã Saunders - [@saunderz](https://github.com/saunderz) - para [Globaltec Educacional](https://github.com/globalteceducacional).
 
-## 🔒 Licença
 
-Este projeto é proprietário e confidencial da Globaltec. 
+## 📄 Licença
 
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
 
