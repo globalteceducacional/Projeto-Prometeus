@@ -33,8 +33,8 @@ Ideal para editoras, professores, alunos e equipes de revisão de conteúdo.
 - **python-docx** para exportação em DOCX
 
 ---
-```
 ## 📂 Estrutura do Projeto
+```
 ProjetoPrometeus/
 ├── app_streamlit.py
 ├── processamento.py
@@ -48,9 +48,10 @@ ProjetoPrometeus/
 ## ⚙️ Instalação
 
 1. Clone o repositório:
-
+```bash
 git clone https://github.com/seuusuario/ProjetoPrometeus.git
 cd ProjetoPrometeus
+```
 2. Instale as dependências:
 pip install -r requirements.txt
 3. Configure suas chaves de API no arquivo config.py ou como variáveis de ambiente:
