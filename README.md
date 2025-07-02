@@ -78,19 +78,19 @@ streamlit run app_streamlit.py
 
 ✅ Download dos arquivos corrigidos em formato .docx
 
-🤝 Contribuições
+## 🤝 Contribuições
 
 Contribuições são bem-vindas! Abra issues ou pull requests com melhorias, novos recursos ou correções.
 
-📄 Licença
+## 🙌 Colabodores
+
+Este projeto foi desenvolvido por [@saunderz](https://github.com/saunderz) para [Globaltec Educacional](https://github.com/globalteceducacional).
+
+## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-✔️ **Instruções finais:**
 
-- Altere o link do `git clone` para o **URL real do seu repositório** no GitHub.
-
-- Confirme que as pastas `uploads/` e `processed/` estão listadas no `.gitignore` se quiser evitar uploads locais no repositório.
 
 
 
