@@ -91,6 +91,9 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 Este projeto foi desenvolvido por Luã Saunders - [@saunderz](https://github.com/saunderz) - para [Globaltec Educacional](https://github.com/globalteceducacional).
 
+## 🔒 Licença
+
+Este projeto é proprietário e confidencial da Globaltec. 
 
 
 
