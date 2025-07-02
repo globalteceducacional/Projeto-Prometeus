@@ -53,8 +53,10 @@ git clone https://github.com/seuusuario/ProjetoPrometeus.git
 cd ProjetoPrometeus
 ```
 2. Instale as dependências:
+```bash
 pip install -r requirements.txt
-3. Configure suas chaves de API no arquivo config.py ou como variáveis de ambiente:
+```
+4. Configure suas chaves de API no arquivo config.py ou como variáveis de ambiente:
 
 GOOGLE_API_KEY para OCR
 
